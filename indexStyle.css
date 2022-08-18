@@ -46,7 +46,7 @@ li a:hover {
 }
 
 header{
-    background: url(https://alant9966.github.io/header_background.jpg);
+    background: url(../images/header_background.jpg);
     padding-bottom: 60px;
     margin-top: 0;
     margin-bottom: 20px;
@@ -91,7 +91,8 @@ a{
   border: none;
   border-radius: 4px;
   height: 80px;
-  padding: 10px auto 15px auto;
+  padding-top: 10px;
+  padding-bottom: 15px;
   margin-top: 30px;
   text-align: center;
   color: #FFFFFF;
@@ -197,6 +198,10 @@ footer{
   color: #FFFFFF;
 }
 
+body{
+  background: #eafbfc;
+}
+
 /*************************************************************************************************************************/
 
 @media screen and (min-width:850px){
@@ -226,7 +231,8 @@ main{
     border-radius: 4px;
     width: 40%;
     height: 80px;
-    padding: 10px auto 15px auto;
+    padding-top: 10px;
+    padding-bottom: 15px;
     margin-left: 6.5%;
     margin-top: 30px;
  

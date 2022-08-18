@@ -45,7 +45,7 @@ body{
 
 header{
     text-align: center;
-    background: url(https://alant9966.github.io/header_background.jpg);
+    background: url(../images/header_background.jpg);
     height: 320px;
   }
 
@@ -86,6 +86,10 @@ header{
     background-color: #FFFFFF;
     border-radius: 10px;
     padding: 15px;
+}
+
+main{
+    padding-bottom: 15px;
 }
 
 
