@@ -57,7 +57,7 @@ li{
 
 main{
     float: left;
-    text-align: left;
+    text-align: justify;
     line-height: 20px;
     height: 40vh;
     width: 40%;
