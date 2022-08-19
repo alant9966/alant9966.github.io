@@ -1,3 +1,7 @@
+::-webkit-scrollbar{
+    display: none;
+}
+
 li{
     display: inline;
   }
@@ -41,6 +45,9 @@ body{
     font-family: Helvetica, Arial, sans-serif;
     margin: 0;
     background: #eafbfc;
+    
+    -ms-overflow-style: none;
+    scrollbar-width: none;
 }
 
 header{
